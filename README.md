@@ -1,4 +1,4 @@
-# pushgateway
+# pushgateway - Mustafa fork 
 
 This docker compose stack spins up grafana, graphite, influxdb, prometheus and pushgateway.
 send_metric.sh sends the same metric to pushgateway, graphite and inlufxdb.
